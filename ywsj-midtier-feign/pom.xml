@@ -28,7 +28,11 @@
             <artifactId>eosgi-core</artifactId>
             <version>${eosgi.core.version}</version>
         </dependency>
-
+        <dependency>
+            <groupId>cn.ywsj</groupId>
+            <artifactId>ywsj-midtier-core</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
     </dependencies>
     <build>
         <plugins>
